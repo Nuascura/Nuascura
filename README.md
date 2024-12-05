@@ -6,5 +6,7 @@ I'm Nuascura. Much of my work idealogy revolves around iterative and incremental
 - Select Projects: Licenses - Player Oppression; Bathing in Skyrim - Renewed
 - Currently Learning: Papyrus; C#; C++
 
+Nexus Mods widget assets copied from [here](https://github.com/doodlum/nexusmods-widgets).
+
 [Nexus Mods](https://next.nexusmods.com/profile/Nuascura) | [LoversLab](https://www.loverslab.com/profile/1295961-nuascura) | [Ko-fi](https://ko-fi.com/nuascura) | [Patreon](https://www.patreon.com/nuascura)
 
