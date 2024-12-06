@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Nuascura. Much of my work idealogy revolves around iterative and incremental optimization above all else. My main projects are video game mods for Skyrim: Special Edition.
+I'm Nuascura. I like iterative and incremental optimization above all else.
 </br>All work is FOSS. My ideal is to keep successors to my work similarly free and open source.
 
 - Pronouns: he/him/his
