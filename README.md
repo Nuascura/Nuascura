@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Nuascura. I prize stability and incremental optimization above all else.
+I'm Nuascura. I prize stability and incremental optimization. I like work that are applicable to both SFW and NSFW environments.
 </br>All work is FOSS. My ideal is to keep successors to my work similarly free and open source.
 
 - Pronouns: he/him/his
